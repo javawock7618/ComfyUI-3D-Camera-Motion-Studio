@@ -1,6 +1,10 @@
 # ComfyUI-3D-Camera-Motion-Studio
 
+[日本語版 README（README.ja.md）](./README.ja.md)
+
 A lightweight, camera-motion-focused 3D scene and keyframe studio custom node for ComfyUI. Designed to be simple, fast, and practical for pre-visualization and video generation workflows such as `MiniMax-H3 Ref2VA ControlNet`.
+
+> **Note:** This custom node was created with Gemini.
 
 ## Concept
 
