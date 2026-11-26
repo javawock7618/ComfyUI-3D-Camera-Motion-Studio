@@ -1,0 +1,19 @@
+[project]
+name = "comfyui-3d-camera-motion-studio"
+version = "0.1.0"
+description = "Lightweight keyframe & 3D camera motion studio custom node for ComfyUI with multi-keyframe easing, object motion, and render mode export."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "Pillow",
+]
+
+[project.urls]
+Repository = "https://github.com/javawock7618/ComfyUI-3D-Camera-Motion-Studio"
+
+[tool.comfy]
+PublisherId = "javawock7618"
+DisplayName = "ComfyUI-3D-Camera-Motion-Studio"
+Icon = ""
