@@ -1,6 +1,10 @@
 # ComfyUI-3D-Camera-Motion-Studio
 
+[English README](./README.md)
+
 ComfyUI 向けの軽量でカメラモーション作成に特化した 3D シーン＆キーフレームスタジオ・カスタムノードです。`MiniMax-H3 Ref2VA ControlNet` などの映像生成ワークフローにおけるプリビズ作成やカメラパス出力をスムーズに行えるよう設計しています。
+
+> **補足:** このカスタムノードは Gemini とともに作成しました。
 
 ## コンセプト
 
